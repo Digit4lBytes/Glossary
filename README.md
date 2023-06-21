@@ -123,3 +123,112 @@ cases) other types of malware, such
 as worms, Trojans, rootkits, adware,
 spyware, password crackers, network
 mappers, DoS tools, and so on.
+
+
+
+
+# API
+(application programming interface) A
+library of programming utilities used, for
+example, to enable software developers
+to access functions of the TCP/IP network
+stack under a particular operating system.
+
+# APT
+
+(advanced persistent threat) An attacker’s
+ability to obtain, maintain, and diversify
+access to network systems using exploits
+and malware.
+
+
+# Arachni
+
+An open-source web application scanner.
+arbitrary code execution
+A vulnerability that allows an attacker
+to run their own code or a module that
+exploits such a vulnerability.
+
+
+# ARO
+
+(annual rate of occurrence) In risk
+calculation, an expression of the
+probability/likelihood of a risk as the
+number of times per year a particular loss
+is expected to occur.
+
+# ARP poisoning
+
+A network-based attack where an attacker
+with access to the target local network
+segment redirects an IP address to the
+MAC address of a computer that is not
+the intended recipient. This can be used
+to perform a variety of attacks, including
+DoS, spoofing, and Man-in-the-Middle. (On Path attack ) 
+Also known as ARP spoofing.
+
+# ASLR
+(address space layout randomization)
+A technique that randomizes where
+components in a running application
+are placed in memory to protect against
+buffer overflows.
+
+# assembly code
+
+A compiled software program is
+converted to binary machine code using
+the instruction set of the CPU platform.
+Assembly language is this machine code
+represented in human-readable text.
+
+# asset tagging
+The practice of assigning an ID to assets
+to associate them with entries in an
+inventory database.
+
+# ATT&CK
+(Adversarial Tactics, Techniques, and
+Common Knowledge) A knowledge base
+maintained by the MITRE Corporation for
+listing and explaining specific adversary
+tactics, techniques, and procedures.
+
+# attack surface
+
+The points at which a network or
+application receives external connections
+or inputs/outputs that are potential
+vectors to be exploited by a threat actor.
+
+# attack vector
+A specific path by which a threat actor
+gains unauthorized access to a system.
+
+# AUP
+(acceptable use policy) A policy that
+governs employees’ use of company
+equipment and Internet services. ISPs
+may also apply AUPs to their customers.
+Also known as a fair use policy.
+
+# Autopsy
+The Sleuth Kit is an open source collection
+of command line and programming
+libraries for disk imaging and file analysis.
+Autopsy is a graphical frontend for
+these tools and also provides a case
+management/workflow tool.
+
+# AutoRuns
+Tool in the Microsoft Sysinternals suite to
+identify processes run at startup.
+
+# awk
+A scripting engine optimized for string
+search and filtering.
+
+
